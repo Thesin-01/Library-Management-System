@@ -406,6 +406,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ---
 
 <p align="center">
-  <strong>DBMS Lab Assignment 12 — Library Management System</strong><br/>
+  <strong>Library Management System</strong><br/>
   Made with ❤️ at KIIT University
 </p>
