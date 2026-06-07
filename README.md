@@ -11,12 +11,11 @@
 A modern, full-stack **Library Management System** built with **Next.js 15**, **React 19**, and **TypeScript**. Features a stunning dark-mode glassmorphism UI, complete CRUD operations, automated fine calculation, and real-time dashboard analytics — all deployable to **Vercel** with zero configuration.
 
 <p align="center">
-  <img src="screenshots/dashboard.png" alt="Dashboard" width="100%" />
+  <img width="959" height="497" alt="Screenshot 2026-06-07 192145" src="https://github.com/user-attachments/assets/498751fa-785f-4295-92d2-047a6f71e11b" />
 </p>
 
-> **KIIT University** — School of Computer Engineering  
-> **Course**: Database Management System (DBMS) Laboratory  
-> **Assignment**: Lab Assignment 12 — Library Management System  
+> **KIIT University** — School of Computer Engineering   
+> **Project**: Library Management System  
 > **Academic Year**: 2025–2026  
 > **Submitted by**: Sinjan Mishra (Roll No: 2405910 | Section: CSE-33)  
 > **Guide Teacher**: Dr. Priyanka Roy
@@ -46,7 +45,7 @@ A modern, full-stack **Library Management System** built with **Next.js 15**, **
 > Overview with live statistics, recent activity feed, and overdue alerts with fine amounts
 
 <p align="center">
-  <img src="screenshots/dashboard.png" alt="Dashboard - Statistics, Recent Activity & Overdue Alerts" width="100%" />
+ <img width="959" height="497" alt="Screenshot 2026-06-07 192145" src="https://github.com/user-attachments/assets/8c54d2b9-9eb5-4a0f-8fb2-96139461e98a" />
 </p>
 
 ---
@@ -55,7 +54,7 @@ A modern, full-stack **Library Management System** built with **Next.js 15**, **
 > Full CRUD table with search, color-coded availability badges, and inline edit/delete actions
 
 <p align="center">
-  <img src="screenshots/books.png" alt="Books Management - CRUD Operations" width="100%" />
+  <img width="959" height="495" alt="Screenshot 2026-06-07 192327" src="https://github.com/user-attachments/assets/c1b7ba17-7fac-435f-be89-6a67f5499552" />
 </p>
 
 ---
@@ -64,7 +63,7 @@ A modern, full-stack **Library Management System** built with **Next.js 15**, **
 > Member registration with avatar initials, email, phone, and formatted join dates
 
 <p align="center">
-  <img src="screenshots/members.png" alt="Members Management - Registration & Search" width="100%" />
+  <img width="959" height="496" alt="Screenshot 2026-06-07 192403" src="https://github.com/user-attachments/assets/663930dd-5bd3-4d86-8226-860071405195" />
 </p>
 
 ---
@@ -73,7 +72,7 @@ A modern, full-stack **Library Management System** built with **Next.js 15**, **
 > Track all book issues with status badges (Returned/Overdue), fine calculation, and return actions
 
 <p align="center">
-  <img src="screenshots/issues.png" alt="Issues Management - All Issues View" width="100%" />
+  <img width="958" height="493" alt="Screenshot 2026-06-07 192454" src="https://github.com/user-attachments/assets/c98b4d4f-ecd5-4020-ae59-f07476dab538" />
 </p>
 
 ---
@@ -82,7 +81,7 @@ A modern, full-stack **Library Management System** built with **Next.js 15**, **
 > Issue new books with dropdown selects for book & member, librarian ID, and due date picker
 
 <p align="center">
-  <img src="screenshots/issue-form.png" alt="Issue Book Form" width="100%" />
+  <img width="958" height="494" alt="Screenshot 2026-06-07 192428" src="https://github.com/user-attachments/assets/1609523a-29bc-4417-8979-f8e6f1a5557f" />
 </p>
 
 ---
